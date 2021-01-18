@@ -8,6 +8,9 @@ Map1.py: Contains the final code for the program.
 All updated changes will be stored in map1.html
 The other .py programs(map_popup, map_advacned, etc) and .html files contain a step-by-step implementation of the this program with each version having a new feature. 
 
+Volcanoes.txt: Contains data of volcanoes across the world
+world.json: Contains country name, population 
+
 
 
 
