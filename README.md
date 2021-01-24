@@ -19,3 +19,10 @@ world.json: Contains country name, population - also analyzed using pandas libra
 Clone this repository: git clone https://github.com/md499/Volcanoes-Population-Folium.git
 
 
+Check images folder to see output: 
+
+complete.png: contains the final output of volcanoes, poulation and a layer control. 
+
+volcanoes.png: contains picture of "pins" of volcanoes around the world-with popup that contains info about volcanoes. 
+
+population.png: contains picture of "blocks" of countries with popup about population stats.
